@@ -14,13 +14,13 @@
 
 ### Hey, I'm Idusha 👋
 
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 Software Engineering undergraduate at the **University of Central Lancashire (UCLan)**, studying from the Sri Lanka campus — **Universal College Lanka (UCL)**. Currently in Year 3, building things with code and always chasing the next challenge.
 
 I've worked across systems programming, game development, mobile apps, cybersecurity, and cross-platform development. I care about writing clean, efficient software and making it actually useful to real people.
 
 ---
+
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### What I'm working with
 
