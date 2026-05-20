@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Chill Mario](./Chill_Mario.gif)
+<img src="./Chill_Mario.gif" width="600" />
 
 </div>
 
