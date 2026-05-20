@@ -90,7 +90,7 @@ Console-based ordering application featuring menu navigation, item selection, or
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyzen-collab&theme=midnight-purple&hide_border=true)](https://github.com/Hyzen-collab)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hyzen-collab&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/Hyzen-collab)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyzen-collab&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/Hyzen-collab)
 
 </div>
 
