@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="224" viewBox="0 0 495 224" role="img" aria-label="Top languages">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { font-size: 20px; font-weight: 700; fill: #f0f6fc; }
+    .sub   { font-size: 12px; fill: #8b949e; }
+    .name  { font-size: 14px; fill: #e6edf3; }
+    .pct   { font-size: 14px; fill: #8b949e; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="28" y="70" width="439" height="10" rx="5"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="494" height="223" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="28" y="26" width="4" height="22" rx="2" fill="#f34b7d"/>
+  <text x="42" y="43" class="title">Top Languages</text>
+  <text x="28" y="62" class="sub">Based on public repositories of @Hyzen-collab</text>
+  <g clip-path="url(#round)"><rect x="28.00" y="70" width="136.40" height="10" fill="#8892bf"/><rect x="163.90" y="70" width="89.31" height="10" fill="#e34c26"/><rect x="252.71" y="70" width="55.44" height="10" fill="#f1e05a"/><rect x="307.66" y="70" width="51.11" height="10" fill="#f34b7d"/><rect x="358.26" y="70" width="37.81" height="10" fill="#00b4ab"/><rect x="395.58" y="70" width="20.53" height="10" fill="#178600"/><rect x="415.61" y="70" width="51.89" height="10" fill="#6e7681"/></g>
+  <circle cx="33.0" cy="108" r="5" fill="#8892bf"/><text x="46.0" y="112" class="name">PHP</text><text x="225.5" y="112" class="pct" text-anchor="end">31.0%</text><circle cx="252.5" cy="108" r="5" fill="#e34c26"/><text x="265.5" y="112" class="name">HTML</text><text x="445.0" y="112" class="pct" text-anchor="end">20.2%</text><circle cx="33.0" cy="138" r="5" fill="#f1e05a"/><text x="46.0" y="142" class="name">JavaScript</text><text x="225.5" y="142" class="pct" text-anchor="end">12.5%</text><circle cx="252.5" cy="138" r="5" fill="#f34b7d"/><text x="265.5" y="142" class="name">C++</text><text x="445.0" y="142" class="pct" text-anchor="end">11.5%</text><circle cx="33.0" cy="168" r="5" fill="#00b4ab"/><text x="46.0" y="172" class="name">Dart</text><text x="225.5" y="172" class="pct" text-anchor="end">8.5%</text><circle cx="252.5" cy="168" r="5" fill="#178600"/><text x="265.5" y="172" class="name">C#</text><text x="445.0" y="172" class="pct" text-anchor="end">4.6%</text><circle cx="33.0" cy="198" r="5" fill="#6e7681"/><text x="46.0" y="202" class="name">Other</text><text x="225.5" y="202" class="pct" text-anchor="end">11.7%</text>
+</svg>
